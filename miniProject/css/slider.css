@@ -1,0 +1,11 @@
+.w3-content{max-width:980px;margin:auto}.w3-rest{overflow:hidden}
+.w3-section{margin-top:16px!important;margin-bottom:16px!important}
+
+.w3-animate-fading{
+    animation:fading 10s infinite
+    }
+@keyframes fading{
+    0%{opacity:0}
+    50%{opacity:1}
+    100%{opacity:0}
+    }
