@@ -1,6 +1,6 @@
 hello everyone ..
 
-you have all permission to use my project :)
+you have all permissions to use this project
 
 - install this file '/miniProject/morroco.sql' in your database name ("miniProjet")
 
